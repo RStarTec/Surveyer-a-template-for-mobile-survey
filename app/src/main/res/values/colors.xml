@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015 Annie Hui @ RStar Technology Solutions
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+
+    <color name="background_white">@color/background_material_light</color>
+    <color name="background_dark">@color/background_material_dark</color>
+    <color name="board_dark">@color/background_material_dark</color>
+    <color name="board_light">@color/background_material_light</color>
+    <color name="board_tilted">@color/background_floating_material_light</color>
+
+    <color name="text_dark">@android:color/black</color>
+    <color name="text_light">@android:color/white</color>
+    <color name="text_medium">@android:color/darker_gray</color>
+    <color name="text_title">@color/text_light</color>
+
+
+    <color name="button_very_dark0">#C51162</color>
+    <color name="button_dark0">#FF4081</color>
+    <color name="button_light0">#FF80AB</color>
+
+    <color name="button_very_dark1">#D50000</color>
+    <color name="button_dark1">#FF1744</color>
+    <color name="button_light1">#FF8A80</color>
+
+    <color name="button_very_dark2">#FF6D00</color>
+    <color name="button_dark2">#FFAB40</color>
+    <color name="button_light2">#FFD180</color>
+
+    <color name="button_very_dark3">#FFD600</color>
+    <color name="button_dark3">#FFEA00</color>
+    <color name="button_light3">#FFFF8D</color>
+
+    <color name="button_very_dark4">#AEEA00</color>
+    <color name="button_dark4">#C6FF00</color>
+    <color name="button_light4">#F4FF81</color>
+
+    <color name="button_very_dark5">#00C853</color>
+    <color name="button_dark5">#69F0AE</color>
+    <color name="button_light5">#B9F6CA</color>
+
+    <color name="button_very_dark6">#00EFA5</color>
+    <color name="button_dark6">#64FFDA</color>
+    <color name="button_light6">#A7FFEB</color>
+
+    <color name="button_very_dark7">#0091EA</color>
+    <color name="button_dark7">#40C4FF</color>
+    <color name="button_light7">#80D8FF</color>
+
+    <color name="button_very_dark8">#304FFE</color>
+    <color name="button_dark8">#536DFE</color>
+    <color name="button_light8">#8C9EFF</color>
+
+    <color name="button_very_dark9">#AA00FF</color>
+    <color name="button_dark9">#E040FB</color>
+    <color name="button_light9">#EA80FC</color>
+
+    <color name="selected_very_dark">#757575</color>
+    <color name="selected_dark">#BDBDBD</color>
+    <color name="selected_light">#F5F5F5</color>
+
+    <color name="unselected_very_dark">#424242</color>
+    <color name="unselected_dark">#616161</color>
+    <color name="unselected_light">#9E9E9E</color>
+
+</resources>

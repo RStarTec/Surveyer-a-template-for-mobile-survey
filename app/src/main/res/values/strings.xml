@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Surveyer</string>
+
+    <string name="button_OK">OK</string>
+    <string name="menu_eula">End-user License Agreement</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_acknowledgment">Acknowledgment</string>
+
+</resources>

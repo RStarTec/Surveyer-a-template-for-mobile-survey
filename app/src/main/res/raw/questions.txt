@@ -1,0 +1,50 @@
+1	1	Is this animal a duck?
+1	2	Does this animal have fur?
+1	3	Does this animal eat meat?
+1	4	Can this animal fly?
+1	5	Is this animal considered a poultry?
+1	6	Is this animal a vegeterian?
+2	1	Do you shop using cash?
+2	2	Do you drive?
+2	3	Are you from Africa?
+2	4	Do you have a regular saving?
+2	5	Do you use a credit card?
+3	1	Do you plant a garden?
+3	2	Has your life been threatened by terrorist activities?
+3	3	Are you constantly in a rush?
+3	4	Do you know how to type?
+3	5	Do you have a computer?
+4	1	Do you or your family eat strawberries?
+4	2	Do you like pineapples?
+4	3	Do you eat orange?
+4	4	Do you like blueberries?
+5	1	Is your work indoor?
+5	2	Does your work have high risk?
+5	3	Have you ever seen this object before?
+5	4	Do you use an umbrella?
+6	1	Does your household have teenager boys?
+6	2	Does your household have teenager girls?
+6	3	Does your household have elderly people?
+6	4	Is anyone in your household a white-collar worker?
+6	5	Is anyone in your household a farmer?
+6	6	Is anyone in your household a healthcare worker?
+6	7	Is anyone in your household a chef?
+7	1	Have you been in a desert?
+7	2	Did you grow up in a big city?
+7	3	Have you experienced snow?
+8	1	Does your family have members younger than 1?
+8	2	Did your family have a wedding in the past 2 years?
+8	3	Did anyone in your family have a promotion in the past 2 years?
+8	4	Did your family have a graduation in the past 2 years?
+8	5	Did anyone in your family win a championship in the past 2 years?
+8	6	Did anyone in your family win a prize in the past 2 years?
+9	1	Have you received any adult education?
+9	2	Do you have a habit of reading the news at least weekly?
+9	3	Are you computer literate?
+9	4	Do you have regular dental checkups?
+9	5	Do you wear eye glasses?
+9	6	Are you athelete?
+10	1	Do you pack your lunch to work?
+10	2	Do you do your own grocery?
+10	3	Do you like ice-cream?
+10	4	Do you eat fast food?
